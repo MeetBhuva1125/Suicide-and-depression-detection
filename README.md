@@ -61,5 +61,3 @@ Both notebooks utilize a similar LSTM-based model architecture with the followin
 Each notebook outputs classification reports to evaluate model performance in detecting and distinguishing between suicidal and depressive text data.
 
 --- 
-
-This update includes information on how to incorporate the GloVe embeddings into your project. Let me know if you'd like further adjustments!
